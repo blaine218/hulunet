@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<div class="header">
+  <h1>Hulu or Netflix?</h1>
+  <p>Choose the <em>Hulu</em> or <em>Netflix</em> button to begin!</p>
+</div>
+
+<div class="topnav">
+  <a href="index.html">Home</a>
+  <a href="index2.html">Hulu</a>
+  <a href="index3.html">Netflix</a>
+</div>
+
+<div class="row">
+  <div class="column">
+    <h2>Blank</h2>
+    <p>Blank</p>
+  </div>
+  <div class="column">
+    <h2>Blank</h2>
+    <p>Blank</p>
+  </div>
+  <div class="column">
+    <h2>Blank</h2>
+    <p>Blank</p>
+  </div>
+</div>
+
+</body>
+</html>
